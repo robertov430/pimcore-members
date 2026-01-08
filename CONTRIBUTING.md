@@ -21,3 +21,4 @@ Notes and usage details for pimcore-members.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- clarify the setup steps
