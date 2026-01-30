@@ -19,3 +19,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // match the style used in the rest of the module
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
