@@ -22,3 +22,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// avoid re-reading the config on every call
