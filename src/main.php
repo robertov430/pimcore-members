@@ -28,3 +28,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// avoid re-reading the config on every call
