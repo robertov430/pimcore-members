@@ -50,3 +50,4 @@ Notes and usage details for pimcore-members.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
